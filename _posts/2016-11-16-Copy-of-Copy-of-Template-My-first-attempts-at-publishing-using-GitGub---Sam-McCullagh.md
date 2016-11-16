@@ -1,0 +1,62 @@
+---
+title: Copy of Copy of Template My first attempts at publishing using GitGub - Sam McCullagh
+layout: post
+author: sam.mccullagh
+permalink: /copy-of-copy-of-template-my-first-attempts-at-publishing-using-gitgub---sam-mccullagh/
+source-id: 1DiT45dPBFQkEwGehTapHHZa-KT2dVRm3O1ytCRfn-AQ
+published: true
+---
+<table>
+  <tr>
+    <td>Title:</td>
+    <td>Blog 7</td>
+  </tr>
+  <tr>
+    <td>Date:</td>
+    <td>21/11/16</td>
+  </tr>
+  <tr>
+    <td>Starting point:</td>
+    <td>Last week I managed to insert a youtube video into my blog, but I do not really know how to insert a google sheet work.</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To insert my google sheet work into this blog.</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>Yes, of course I reached my target, as the google sheet is at the bottom of this blog! Although I did not fulfil my task during the lesson.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>Perseverance was a key factor to completing this blog, as, even though I did not finish this task in class because I was not paying enough attention, I persevered at home. 
+
+It took me ages trying to find how to embed my google sheet, in the end I just copied the URL and put it into this blog and it worked!</td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits do I need to work on? </td>
+  </tr>
+  <tr>
+    <td>During the lesson I was not paying enough attention, so I had to finish it at home.
+
+This limited my learning, as if I payed enough attention I could have completed it in class.</td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>Next time I will pay more attention to in the lesson, so that I can complete in class and ask for help from a teacher if I am stuck.</td>
+  </tr>
+</table>
+
+
