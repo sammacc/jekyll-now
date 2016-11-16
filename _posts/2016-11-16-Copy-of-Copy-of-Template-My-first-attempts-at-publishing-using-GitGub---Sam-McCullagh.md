@@ -1,5 +1,5 @@
 ---
-title: Blog 7
+title: Copy of Copy of Template My first attempts at publishing using GitGub - Sam McCullagh
 layout: post
 author: sam.mccullagh
 permalink: /copy-of-copy-of-template-my-first-attempts-at-publishing-using-gitgub---sam-mccullagh/
@@ -59,4 +59,4 @@ This limited my learning, as if I payed enough attention I could have completed 
   </tr>
 </table>
 
-<iframe width="720" height="315" src="https://docs.google.com/spreadsheets/d/1zfe5TP-bUXjYoc7c0KOzLuvkJuXQMbugPCvPGsPQZLg/edit#gid"            frameborder="0" allowfullscreen></iframe>
+
