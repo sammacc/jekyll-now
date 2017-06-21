@@ -18,11 +18,10 @@ html {
 }
 
 body {
-	 background-image: url("http://vidur.net/wp-content/uploads/2017/04/blue-wallpaper-background-beautiful-blue-images-amazing-black-blue-and-black-wallpaper-2.jpg");
-         background-repeat: no-repeat;
-         background-attachment: fixed;
+	 background-image: url("http://vidur.net/wp-content/uploads/2017/04/blue-wallpaper-background-beautiful-blue-images-amazing-black-blue-and-black-wallpaper-2.jpg") 
 	 background-position: center;
-
+	 background-size: 100% 100%;
+         background-repeat: no-repeat;
   font: 18px/1.4 $helvetica;
   color: $black;
 }
